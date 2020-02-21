@@ -41,6 +41,7 @@ print_words() and print_top().
 
 import sys
 
+# This took me about an hour and a half
 # +++your code here+++
 # Define print_words(filename) and print_top(filename) functions.
 # You could write a helper utility function that reads a file
